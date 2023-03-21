@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2d1168e12b9acff05191",
+    "revision": "b7cee3a28f565a977ee1",
     "url": "/supa-courses/static/css/main.d1635dfc.chunk.css"
   },
   {
-    "revision": "2d1168e12b9acff05191",
-    "url": "/supa-courses/static/js/main.2d1168e1.chunk.js"
+    "revision": "b7cee3a28f565a977ee1",
+    "url": "/supa-courses/static/js/main.b7cee3a2.chunk.js"
   },
   {
     "revision": "f78e93d889424127f7fb",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/supa-courses/static/js/runtime~main.219a9fcc.js"
   },
   {
-    "revision": "f498186d019ab189289fd538d0aa1d55",
+    "revision": "359278c80e1acdc1f312c844e86345d5",
     "url": "/supa-courses/index.html"
   }
 ];
