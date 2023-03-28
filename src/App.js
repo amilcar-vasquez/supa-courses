@@ -4,7 +4,6 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
 // pages
 import Home from "./pages/Home"
 import Programs from "./pages/Programs"
-import Update from "./pages/Update"
 
 
 function App() {
@@ -18,7 +17,6 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/programs" element={<Programs />} />
-        <Route path="/:id" element={<Update />} />
       </Routes>
     </BrowserRouter>
   );
